@@ -23,11 +23,11 @@ has been tested on a GPS 12XL (firmware 3.53) and a GPS III.
 %description -l pl
 Garble jest konsolowym programem s³u¿±cym do zczytywania danych (punkty,
 blisko¶æ punktów, trasy, szlaki) z odbiorników GPS Garmin. Garble bazuje na
-przeno¶nej bibliotece, która implementuje wiêkosz¶æ z protoko³u
-komunikacyjnego Garmin, wspieranego przez odbiorniki GPS Gramin.
-Garble potrafi tak¿e odczytaæ bierz±cy czas oraz aktualn± pozycjê, a tak¿ dane
-produktu, potrafi tak¿ wy³±czyæ sam odbiornik GPS.
-Garble zosta³o przetestowane z GPS 12XL (firmware 3.53) i GPS III.
+przeno¶nej bibliotece, która implementuje wiêkszo¶æ z protoko³u
+komunikacyjnego Garmin, wspieranego przez odbiorniki GPS Gramin. Garble 
+potrafi tak¿e odczytaæ bie¿±cy czas oraz aktualn± pozycjê, a tak¿e dane 
+produktu, potrafi tak¿ wy³±czyæ sam odbiornik GPS. Garble zosta³o 
+przetestowane z GPS 12XL (firmware 3.53) i GPS III.
 
 %prep
 %setup -q
