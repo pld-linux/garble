@@ -18,7 +18,7 @@ waypoints, tracks, and routes) from Garmin GPS receivers. Garble is based on a
 portable library that implements most of the Garmin communications protocol,
 and supports most Garmin GPS receivers. Garble can also read the current time
 and postion from the GPS, get the product data, and turn off the GPS. Garble
-has been tested on a GPS 12XL (firmware 3.53) and a GPS III. 
+has been tested on a GPS 12XL (firmware 3.53) and a GPS III.
 
 %description -l pl
 Garble jest konsolowym programem s³u¿±cym do zczytywania danych (punkty,
