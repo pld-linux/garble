@@ -26,7 +26,7 @@ blisko¶æ punktów, trasy, szlaki) z odbiorników GPS Garmin. Garble bazuje na
 przeno¶nej bibliotece, która implementuje wiêkszo¶æ z protoko³u
 komunikacyjnego Garmin, wspieranego przez odbiorniki GPS Gramin. Garble 
 potrafi tak¿e odczytaæ bie¿±cy czas oraz aktualn± pozycjê, a tak¿e dane 
-produktu, potrafi tak¿ wy³±czyæ sam odbiornik GPS. Garble zosta³o 
+produktu, potrafi tak¿e wy³±czyæ sam odbiornik GPS. Garble zosta³o 
 przetestowane z GPS 12XL (firmware 3.53) i GPS III.
 
 %prep
