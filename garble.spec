@@ -7,6 +7,7 @@ Epoch:		1
 License:	GPL
 Group:		Applications/Communications
 Source0:	http://www.pdos.lcs.mit.edu/~decouto/garble/%{name}-%{version}.tar.gz
+# Source0-md5:	a0479b213c64980a2d929e02b86dc275
 URL:		http://www.pdos.lcs.mit.edu/~decouto/garble/
 Conflicts:	gpsdrive
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
