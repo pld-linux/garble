@@ -31,14 +31,16 @@ przetestowane z GPS 12XL (firmware 3.53) i GPS III.
 
 %prep
 %setup -q
+
 %build
 %{__make}
 
 %install
 rm -rf $RPM_BUILD_ROOT
-install -d $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_bindir}
-install garble ${RPM_BUILD_ROOT}%{_bindir}
+
+install garble $RPM_BUILD_ROOT%{_bindir}
+
 %clean
 rm -rf $RPM_BUILD_ROOT
 
