@@ -1,5 +1,5 @@
 Summary:	Garble reciver data from GPS Garmin
-Summary(pl):	Garble czytnik danych z GPS Gramin
+Summary(pl.UTF-8):   Garble czytnik danych z GPS Gramin
 Name:		garble
 Version:	1.0.1
 Release:	1
@@ -20,13 +20,13 @@ and supports most Garmin GPS receivers. Garble can also read the current time
 and postion from the GPS, get the product data, and turn off the GPS. Garble
 has been tested on a GPS 12XL (firmware 3.53) and a GPS III.
 
-%description -l pl
-Garble jest konsolowym programem s³u¿±cym do zczytywania danych (punkty,
-blisko¶æ punktów, trasy, szlaki) z odbiorników GPS Garmin. Garble bazuje na
-przeno¶nej bibliotece, która implementuje wiêkszo¶æ z protoko³u
+%description -l pl.UTF-8
+Garble jest konsolowym programem sÅ‚uÅ¼Ä…cym do zczytywania danych (punkty,
+bliskoÅ›Ä‡ punktÃ³w, trasy, szlaki) z odbiornikÃ³w GPS Garmin. Garble bazuje na
+przenoÅ›nej bibliotece, ktÃ³ra implementuje wiÄ™kszoÅ›Ä‡ z protokoÅ‚u
 komunikacyjnego Garmin, wspieranego przez odbiorniki GPS Gramin. Garble 
-potrafi tak¿e odczytaæ bie¿±cy czas oraz aktualn± pozycjê, a tak¿e dane 
-produktu, potrafi tak¿e wy³±czyæ sam odbiornik GPS. Garble zosta³o 
+potrafi takÅ¼e odczytaÄ‡ bieÅ¼Ä…cy czas oraz aktualnÄ… pozycjÄ™, a takÅ¼e dane 
+produktu, potrafi takÅ¼e wyÅ‚Ä…czyÄ‡ sam odbiornik GPS. Garble zostaÅ‚o 
 przetestowane z GPS 12XL (firmware 3.53) i GPS III.
 
 %prep
