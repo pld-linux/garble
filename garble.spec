@@ -1,5 +1,5 @@
 Summary:	Garble reciver data from GPS Garmin
-Summary(pl.UTF-8):   Garble czytnik danych z GPS Gramin
+Summary(pl.UTF-8):	Garble czytnik danych z GPS Gramin
 Name:		garble
 Version:	1.0.1
 Release:	1
